@@ -6,7 +6,7 @@ package leaned;
  * 			1.狦ㄏノ块计玥セ计k+1
  * 			2.狦ㄏノ块蛮计玥セ计k
  * 			3.狦ㄏノ块琌块玥肚癟"计"ぃ琌计玥肚案计
- * 
+ 
  */
 public class IfElseOperation {
 
