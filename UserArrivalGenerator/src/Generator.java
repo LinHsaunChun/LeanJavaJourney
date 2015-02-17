@@ -50,6 +50,7 @@ public class Generator {
 			 *				Pr( 系統處理時間區間下限<使用者抵達間隔時間)=case2的比例 或 Pr( 系統處理時間區間上限>使用者抵達間隔時間)=case2
 			 *		Step.4:驗證產生的抵達分配是否和宣稱相符
 			 *
+			 *
 			 *	補充： exponential distribution with parameter \lambda(\lambda e^{\lambda x})
 			 *	推導： 累積函數F(x)=y=機率值,機率函數f(x)= \lambda e^{-\lambda x}
 			 *				F(x)=y = 積分f(x)，範圍0<X<x
